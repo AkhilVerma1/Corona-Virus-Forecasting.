@@ -1,0 +1,4 @@
+This file contains the forecasting of corona virus and also the visualization of the corona according to the diffrent regions.
+
+For cleansing the data I used tableau-prep and I will also attached the cleaned data and also the previous data(uncleaned data) along with the 
+tableau-prep model file.
